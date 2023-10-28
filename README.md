@@ -1,2 +1,2 @@
 # Vacation Tracking System
-- A Vacation Tracking System (VTS) will provide individual employees with the capability to manage their own vacation time, sick leave, and personal time off, without having to be an expert in company policy or the local facility’s leave policies.
+- A Vacation Tracking System (VTS) will provide individual employees with the capability to manage their own vacation time, sick leave, and personal time off, without having to be an expert in company policy or the local facility’s leave policies. The application idea is coming from [Object-Oriented Analysis and Design with Applications, Third Edition Book](https://www.oreilly.com/library/view/object-oriented-analysis-and/9780201895513/)
