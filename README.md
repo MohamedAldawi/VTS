@@ -1,2 +1,1 @@
-# VTS
-Vacation Tracking System
+# Vacation Tracking System
