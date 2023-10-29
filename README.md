@@ -37,6 +37,6 @@
 -	**System Logs Backup:** This use case describes how the system administrator creates backups of the system's logs.
 
 ```diff
-- @@Time Management: This use case explains how employees can request and review their vacation time requests.@@
+- @@Time Management: This use case explains how employees can request and review their vacation time requests. (and bold)@@
 
 ```
