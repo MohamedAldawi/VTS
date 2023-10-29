@@ -20,7 +20,7 @@
 
 # Use Case Diagram
 <p align="center">
- <img src="../main/images/use_case_diagram.png" alt="use_case_diagram" height="640" width="960"/>
+ <img src="../main/images/use_case_diagram.png" alt="use_case_diagram"/>
     <br>
-    <em>Figure 1 training process of NN.</em>
+    <em>Figure 1.1 Use Case Diagram </em>
 </p>
