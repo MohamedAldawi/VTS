@@ -18,4 +18,4 @@
 5. Empower managers to directly allocate personal leave time within system-defined limits.
 
 # Use Case Diagram
-![use case diagram](/main/images/use_case_diagram.png)
+![use case diagram](../main/images/use_case_diagram.png)
