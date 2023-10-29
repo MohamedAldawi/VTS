@@ -27,8 +27,8 @@
 </p>
 
 # Use Cases
--	<p style="color:#C60004">Time Management:This use case explains how employees can request and review their vacation time requests.</p>
-$${\color{red}Red}$$
+-	Time Management:This use case explains how employees can request and review their vacation time requests.
+- $${\color{red}Time Management:This use case explains how employees can request and review their vacation time requests.}$$
 -	**Request Approval:** This use case outlines how a manager handles vacation time requests from their subordinates.
 -	**Grant Additional Time:** This use case describes how a manager can allocate extra leave time, such as comp time, to their subordinates.
 -	**Modify Employee Records:** This use case details how an HR employee can make changes to an employee's information in the system. This includes setting leave time allowances and maximum manager-awarded time.
