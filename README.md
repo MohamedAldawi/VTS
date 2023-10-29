@@ -19,10 +19,7 @@
 5. Empower managers to directly allocate personal leave time within system-defined limits.
 
 # Use Case Diagram
-![use case diagram]()
-*image_caption*
-
 <figure>
   <img src="../main/images/use_case_diagram.png" alt="">
-  <figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</figcaption>
+  <figcaption>Use Cae Diagram</figcaption>
 </figure>
