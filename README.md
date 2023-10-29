@@ -27,7 +27,7 @@
 </p>
 
 # Use Cases
-- $\textcolor{red}{This\ is\ a\ Big\ Title}$
+- $\textcolor{red}**{This\ is\ a\ Big\ Title}**$
 -	**Time Management:** This use case explains how employees can request and review their vacation time requests.
 -	**Request Approval:** This use case outlines how a manager handles vacation time requests from their subordinates.
 -	**Grant Additional Time:** This use case describes how a manager can allocate extra leave time, such as comp time, to their subordinates.
