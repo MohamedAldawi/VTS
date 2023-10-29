@@ -21,5 +21,5 @@
 # Use Case Diagram
 <figure>
   <img src="../main/images/use_case_diagram.png" alt="">
-  <figcaption>Use Cae Diagram</figcaption>
+  <figcaption align="middle">Use Case Diagram</figcaption>
 </figure>
