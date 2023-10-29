@@ -20,3 +20,4 @@
 
 # Use Case Diagram
 ![use case diagram](../main/images/use_case_diagram.png)
+    #Use Case Diagram Figure
