@@ -17,3 +17,5 @@
 4. Enable HR and system administration personnel to override actions restricted by rules, with logging of those overrides.
 5. Empower managers to directly allocate personal leave time within system-defined limits.
 
+# Use Case Diagram
+
