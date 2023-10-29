@@ -27,8 +27,7 @@
 </p>
 
 # Use Cases
--	`red color` Time Management:This use case explains how employees can request and review their vacation time requests.
--	<font color=#0fb503>other color</font>
+-	**Time Management:** This use case explains how employees can request and review their vacation time requests.
 -	**Request Approval:** This use case outlines how a manager handles vacation time requests from their subordinates.
 -	**Grant Additional Time:** This use case describes how a manager can allocate extra leave time, such as comp time, to their subordinates.
 -	**Modify Employee Records:** This use case details how an HR employee can make changes to an employee's information in the system. This includes setting leave time allowances and maximum manager-awarded time.
@@ -38,9 +37,6 @@
 -	**System Logs Backup:** This use case describes how the system administrator creates backups of the system's logs.
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- **Time Management:** This use case explains how employees can request and review their vacation time requests.
+
 ```
