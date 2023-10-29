@@ -19,7 +19,8 @@
 5. Empower managers to directly allocate personal leave time within system-defined limits.
 
 # Use Case Diagram
-<figure>
-  <img src="../main/images/use_case_diagram.png" alt="">
-  <figcaption align="middle">Use Case Diagram</figcaption>
-</figure>
+<p align="center">
+ <img src="../main/images/use_case_diagram.png" alt="use_case_diagram" height="640" width="960"/>
+    <br>
+    <em>Figure 1 training process of NN.</em>
+</p>
