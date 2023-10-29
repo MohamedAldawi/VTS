@@ -6,6 +6,7 @@
 - [System Overview](#System-Overview)
 - [System Features](#System-Features)
 - [Use Case Diagram](#Use-Case-Diagram)
+- [Use Cases](#Use-Cases)
 
 # System Overview  
   This system holds the promise of significant time and cost savings, primarily within the HR department. It essentially removes the manual, individual time request process and replaces it with a rule-based   validation system. HR personnel will retain their responsibilities for inputting and updating employee vacation data in the system, but they will no longer serve as intermediaries in the request and       
@@ -24,3 +25,14 @@
     <br>
     <em>Figure 1.1 Use Case Diagram </em>
 </p>
+
+# Use Cases
+•	Time Management: This use case explains how employees can request and review their vacation time requests.
+•	Request Approval: This use case outlines how a manager handles vacation time requests from their subordinates.
+•	Grant Additional Time: This use case describes how a manager can allocate extra leave time, such as comp time, to their subordinates.
+•	Modify Employee Records: This use case details how an HR clerk can make changes to an employee's information in the system. This includes setting leave time allowances and maximum manager-awarded time.
+•	Location Management: This use case explains how an HR clerk administers location records and their associated regulations.
+•	Leave Category Management: This use case outlines how an HR clerk oversees leave categories and their corresponding regulations.
+•	Override Leave Records: This use case specifies how an HR clerk has the authority to override rejections of leave time requests made by the system's rules.
+•	System Logs Backup: This use case describes how the system administrator creates backups of the system's logs.
+
