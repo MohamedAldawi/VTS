@@ -37,4 +37,10 @@
 -	**Override Leave Records:** This use case specifies how an HR employee has the authority to override rejections of leave time requests made by the system's rules.
 -	**System Logs Backup:** This use case describes how the system administrator creates backups of the system's logs.
 
-  <h1 style="color:purple;">Hello World</h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
