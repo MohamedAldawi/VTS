@@ -9,6 +9,7 @@
 - [Use Cases](#Use-Cases)
 - [Time Management Use Case](#Time-Management-Use-Case)
   - [Workflow - Main flow](#Workflow---Main-flow)
+  - [High-level schema](#High--level-Database-schema) 
 
 # System Overview  
   This system holds the promise of significant time and cost savings, primarily within the HR department. It essentially removes the manual, individual time request process and replaces it with a rule-based   validation system. HR personnel will retain their responsibilities for inputting and updating employee vacation data in the system, but they will no longer serve as intermediaries in the request and       
@@ -64,4 +65,11 @@
  <img src="../main/images/use_case_activity.png" alt="workflow"/>
     <br>
     <em>Figure 1.2 Workflow </em>
+</p>
+
+# High-level Database schema
+<p align="center">
+ <img src="../main/images/DB_scheme.png" alt="workflow"/>
+    <br>
+    <em>Figure 1.3 Database schema </em>
 </p>
