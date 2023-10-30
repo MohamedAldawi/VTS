@@ -61,7 +61,7 @@
  
 # Workflow - Main flow
 <p align="center">
- <img src="../main/images/use_case_diagram.png" alt="use_case_diagram"/>
+ <img src="../main/images/use_case_activity.png" alt="workflow"/>
     <br>
-    <em>Figure 1.1 Use Case Diagram </em>
+    <em>Figure 1.2 Workflow </em>
 </p>
