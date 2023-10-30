@@ -38,4 +38,23 @@
 -	**System Logs Backup:** This use case describes how the system administrator creates backups of the system's logs.
 
 # Time Management Use Case
+- **Description:** The employee intends to create a new request for vacation time.
 - **Actor:** Employee
+- **Preconditions:** The employee is authenticated and identified as an employee of the company with privileges to manage his or her own vacation time.
+- **Postconditions:** Email notification is sent to manager while the request is created. 
+- **Basic flow:**
+    1.	The employee accesses the VTS through a link to the web portal.
+    2.	The VTS retrieves the employee's vacation information for the past 6 months and up to 18 months in the future.
+    3.	The employee selects a category with available vacation time.
+    4.	The VTS guides the employee to specify the requested date(s) and hours using a visual calendar.
+    5.	The employee provides additional details and submits the request.
+    6.	If there are errors, the web page displays them for correction.
+    7.	The employee can edit or cancel the request.
+    8.	If the request is complete and valid, it is sent for manager approval, triggering an email to the manager.
+    9.	The request enters a pending approval state.
+    10.	The manager receives the email and accesses the VTS.
+    11.	The manager may need to provide authentication credentials.
+    12.	The manager reviews pending requests and approves or denies them individually.
+    13.	The VTS prompts the manager to provide reasons for disapproval.
+    14.	The employee is notified of the decision, and the manager can continue managing requests or exit the VTS.
+ 
