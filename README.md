@@ -8,6 +8,7 @@
 - [Use Case Diagram](#Use-Case-Diagram)
 - [Use Cases](#Use-Cases)
 - [Time Management Use Case](#Time-Management-Use-Case)
+- [Workflow - Main flow](#Workflow_Main_flow)
 
 # System Overview  
   This system holds the promise of significant time and cost savings, primarily within the HR department. It essentially removes the manual, individual time request process and replaces it with a rule-based   validation system. HR personnel will retain their responsibilities for inputting and updating employee vacation data in the system, but they will no longer serve as intermediaries in the request and       
@@ -58,3 +59,9 @@
     13.	The VTS prompts the manager to provide reasons for disapproval.
     14.	The employee is notified of the decision, and the manager can continue managing requests or exit the VTS.
  
+# Workflow - Main flow
+<p align="center">
+ <img src="../main/images/use_case_diagram.png" alt="use_case_diagram"/>
+    <br>
+    <em>Figure 1.1 Use Case Diagram </em>
+</p>
