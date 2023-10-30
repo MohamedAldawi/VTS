@@ -8,7 +8,7 @@
 - [Use Case Diagram](#Use-Case-Diagram)
 - [Use Cases](#Use-Cases)
 - [Time Management Use Case](#Time-Management-Use-Case)
-- [Workflow - Main flow](#Workflow---Main-flow)
+  - [Workflow - Main flow](#Workflow---Main-flow)
 
 # System Overview  
   This system holds the promise of significant time and cost savings, primarily within the HR department. It essentially removes the manual, individual time request process and replaces it with a rule-based   validation system. HR personnel will retain their responsibilities for inputting and updating employee vacation data in the system, but they will no longer serve as intermediaries in the request and       
