@@ -67,9 +67,9 @@
     <em>Figure 1.2 Workflow </em>
 </p>
 
-# High-level Database schema
+# Entity-Relationship Diagram
 <p align="center">
  <img src="../main/images/DB_scheme.png" alt="workflow"/>
     <br>
-    <em>Figure 1.3 Database schema </em>
+    <em>Figure 1.3 ERD</em>
 </p>
