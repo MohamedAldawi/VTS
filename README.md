@@ -73,3 +73,10 @@
     <br>
     <em>Figure 1.3 ERD</em>
 </p>
+
+# State Diagram
+<p align="center">
+ <img src="../main/images/State_Diagram.png" alt="workflow"/>
+    <br>
+    <em>Figure 1.4 State Diagram</em>
+</p>
